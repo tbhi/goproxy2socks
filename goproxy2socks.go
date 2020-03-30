@@ -3,7 +3,6 @@ package main
 import (
     "github.com/elazarl/goproxy"
     "golang.org/x/net/proxy"
-    // "gopkg.in/elazarl/goproxy.v1"
     "log"
     "net/http"
     "os"
